@@ -1,23 +1,16 @@
-# Surviving Your First Day on the Job with Git
+# From GOTO to Gang of Four
 
-This presentation is a step-by-step tutorial on using the `git`
-command line tools. It summarizes the basic concepts surrounding `git`
-as well as the process of building up a new `git` repository.
+This presentation is a review of computing history as well as the
+concepts that developed along with innovations in hardware and how
+they relate to the paradigms we value in modern development.
 
 ### Topics include
 
-- Configuring your identity with `git`
-- Initializing a new repository
-- The `git` index and staging area
-- Commits
-- Checking the differences between commits
-- Viewing the change log
-- Removing files from the repository
-- Ignoring unwanted files
-- Scrapping changes to start over
-- Creating and merging branches
-- Adding remote repositories
-- Sending and receiving commits from remote repositories
+- An overview of various historical computers and their technology
+- An introduction to programming language paradigms
+- A look at the reasoning behind continuing evolution of paradigms
+- An introduction to a few key abstraction methods
+- Just a smidge of principles of software design
 
 ### Usage
 
