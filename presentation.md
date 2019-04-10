@@ -133,7 +133,7 @@ heralded the birth of Von Neumann architecture.
 ### Metrovick 950
 
 ![MetroVick
-950](http://worldpowersystems.com/J/Ivall/Metrovick-transistor-digital-computer.jpg)<!-- .element: width="60%" height="60%" -->
+950](http://worldpowersystems.com/archives/Ivall/Metrovick-transistor-digital-computer.jpg)<!-- .element: width="60%" height="60%" -->
 
 Notes: By 1955 transistors began to replace vacuum tubes, once again
 making computers smaller, faster, more reliable, and requiring less energy.
@@ -198,7 +198,7 @@ paradigms arose.
 
 ### C - Procedural
 
-![Ken Thompson and Dennis Ritchie](https://upload.wikimedia.org/wikipedia/commons/3/36/Ken_n_dennis.jpg)
+![Ken Thompson and Dennis Ritchie](https://upload.wikimedia.org/wikipedia/commons/4/46/Ken_Thompson_and_Dennis_Ritchie.jpg)
 
 Notes: In 1969 at Bell Labs while attempting to write a universal
 operating system that would run on any computer, the need arose for a
